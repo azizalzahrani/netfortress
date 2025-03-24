@@ -56,17 +56,10 @@ Net Fortress is an advanced AI-powered security solution designed to protect clo
 
 ### Installation
 
-
 # Using npm
 ```
 npm install netfortress
 ```
-
-# Using yarn
-```
-yarn add netfortress
-```
-
 
 
 ### Environment Setup
