@@ -56,15 +56,9 @@ Net Fortress is an advanced AI-powered security solution designed to protect clo
 
 ### Installation
 
-```bash
 # Using npm
+```
 npm install netfortress
-
-# Using yarn
-yarn add netfortress
-
-# Using pnpm
-pnpm add netfortress
 ```
 
 
@@ -185,3 +179,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions, support, or business inquiries:
 
 - GitHub: [github.com/azizalzahrani](https://github.com/azizalzahrani)
+- Website: [azizo.dev](https://azizo.dev)
